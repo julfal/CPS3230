@@ -15,7 +15,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.List;
 
-public class MarketUMValidation {
+public class CucumberTests {
 
     WebDriver driver;
     ApiHandler rest = new ApiHandler();
