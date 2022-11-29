@@ -8,5 +8,5 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources"
         )
-public class TestRunner {
+public class CucumberTestsRunner {
 }
